@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=webdevhemant&style=flat-square&color=a78bfa&label=Profile+views" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.upwork.com/freelancers/~01ccdad8415e1e720a">
     <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-34d399?logo=upwork&logoColor=white&style=for-the-badge" alt="Upwork" />
   </a>
